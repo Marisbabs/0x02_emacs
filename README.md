@@ -1,2 +1,2 @@
 # 0x02_emacs
-/root/C-x C-f/opening. 
+# /root/0x02_emacs/C-x C-f 
